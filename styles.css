@@ -1,0 +1,23 @@
+body{
+    background-image: url("images/death-star.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.card{
+    border: 1px solid white;
+    height:270px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: white;
+}
+.starWars-header{
+    color:white;
+    height: 100px;
+}
+.starWars-header h2{
+    padding-top: 20px;
+    text-shadow: 2px 2px 20px rgb(247, 3, 3)
+}
+.myTeam-header{
+    color:white
+}
